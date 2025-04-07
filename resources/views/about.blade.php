@@ -5,6 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ config('app.name') }} | About</title></head>
 <body>
-    <h1>About</h1>
+    <h1>Qui sommes nous?</h1>
 </body>
 </html>
